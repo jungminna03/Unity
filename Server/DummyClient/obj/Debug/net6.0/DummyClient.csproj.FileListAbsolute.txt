@@ -1,0 +1,15 @@
+E:\Unity Projects\inflearnServer\DummyClient\bin\Debug\net6.0\DummyClient.exe
+E:\Unity Projects\inflearnServer\DummyClient\bin\Debug\net6.0\DummyClient.deps.json
+E:\Unity Projects\inflearnServer\DummyClient\bin\Debug\net6.0\DummyClient.runtimeconfig.json
+E:\Unity Projects\inflearnServer\DummyClient\bin\Debug\net6.0\DummyClient.dll
+E:\Unity Projects\inflearnServer\DummyClient\bin\Debug\net6.0\DummyClient.pdb
+E:\Unity Projects\inflearnServer\DummyClient\obj\Debug\net6.0\DummyClient.csproj.AssemblyReference.cache
+E:\Unity Projects\inflearnServer\DummyClient\obj\Debug\net6.0\DummyClient.GeneratedMSBuildEditorConfig.editorconfig
+E:\Unity Projects\inflearnServer\DummyClient\obj\Debug\net6.0\DummyClient.AssemblyInfoInputs.cache
+E:\Unity Projects\inflearnServer\DummyClient\obj\Debug\net6.0\DummyClient.AssemblyInfo.cs
+E:\Unity Projects\inflearnServer\DummyClient\obj\Debug\net6.0\DummyClient.csproj.CoreCompileInputs.cache
+E:\Unity Projects\inflearnServer\DummyClient\obj\Debug\net6.0\DummyClient.dll
+E:\Unity Projects\inflearnServer\DummyClient\obj\Debug\net6.0\refint\DummyClient.dll
+E:\Unity Projects\inflearnServer\DummyClient\obj\Debug\net6.0\DummyClient.pdb
+E:\Unity Projects\inflearnServer\DummyClient\obj\Debug\net6.0\DummyClient.genruntimeconfig.cache
+E:\Unity Projects\inflearnServer\DummyClient\obj\Debug\net6.0\ref\DummyClient.dll
