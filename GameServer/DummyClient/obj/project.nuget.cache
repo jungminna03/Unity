@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "P6gNHHM/f/1T/bl8JpGcwOEUVmTu8X/8Dsw/kKdhDHa1ofCaTAk+xakez994p1k2pYaU/HJ2JtJagMIKzzOfgQ==",
+  "success": true,
+  "projectFilePath": "D:\\GIt\\Unity\\GameServer\\DummyClient\\DummyClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jungm\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\jungm\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\jungm\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\jungm\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

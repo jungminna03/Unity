@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "l4ratpQRhg6i6YZC+6dH/VSE6qy5UAmdqMb82hUaHmvd5mycaw6Xkh196YU1YXFUf2zD8Wc4mG2wVW5ha/YmOA==",
+  "success": true,
+  "projectFilePath": "D:\\GIt\\Unity\\GameServer\\Server\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jungm\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\jungm\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\jungm\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\jungm\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
